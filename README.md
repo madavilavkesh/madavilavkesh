@@ -19,15 +19,10 @@ I'm an M.Tech student and a passionate Data Science enthusiast exploring the dif
 ---
 
 ## 🛠️ Tech Stack:
-`Python` &nbsp;|&nbsp; `TensorFlow/Keras` &nbsp;|&nbsp; `PyTorch` &nbsp;|&nbsp; `HuggingFace` &nbsp;|&nbsp; `Gradio` &nbsp;|&nbsp; `Colab` &nbsp;|&nbsp; `Git` &nbsp;|&nbsp; `Redis` &nbsp;|&nbsp; `Scikit-learn`
+`Python` &nbsp;|&nbsp; `TensorFlow/Keras` &nbsp;|&nbsp; `PyTorch` &nbsp;|&nbsp; `HuggingFace` &nbsp;|&nbsp; `Gradio` &nbsp;|&nbsp; `Colab` &nbsp;|&nbsp; `Scikit-learn`
 
 ---
 
 ## 📫 Let’s connect:
-- 🔗 LinkedIn: [your-link-here]
-- 🌐 Portfolio/Blog: [your-link-here]
-- 📩 Email: [your-email-here]
-
----
-
-> *“Stay curious, keep building.”*
+- 🔗 LinkedIn: https://www.linkedin.com/in/lavkesh-madavi/
+- 📩 Email: madavilavkesh@gmail.com
