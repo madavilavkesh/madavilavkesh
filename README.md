@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hey there, I'm Lavkesh
 
-<!--
-**madavilavkesh/madavilavkesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an M.Tech student and a passionate Data Science enthusiast exploring the different domains of AI/ML.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m working on:
+- 🧠 Neural Machine Translation (RNN, Attention, Transformer, T5)
+- 🎨 Text-to-Image generation using Stable Diffusion
+- 📊 ML-driven analytics & insights for real-world applications
+
+---
+
+## 💡 I’m curious about:
+- Generative AI
+- LLM Agents and prompt engineering
+- Real-time AI deployments (Gradio, HuggingFace Spaces)
+
+---
+
+## 🛠️ Tech Stack:
+`Python` &nbsp;|&nbsp; `TensorFlow/Keras` &nbsp;|&nbsp; `PyTorch` &nbsp;|&nbsp; `HuggingFace` &nbsp;|&nbsp; `Gradio` &nbsp;|&nbsp; `Colab` &nbsp;|&nbsp; `Git` &nbsp;|&nbsp; `Redis` &nbsp;|&nbsp; `Scikit-learn`
+
+---
+
+## 📫 Let’s connect:
+- 🔗 LinkedIn: [your-link-here]
+- 🌐 Portfolio/Blog: [your-link-here]
+- 📩 Email: [your-email-here]
+
+---
+
+> *“Stay curious, keep building.”*
