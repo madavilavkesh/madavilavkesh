@@ -6,7 +6,7 @@ I'm an M.Tech student and a passionate Data Science enthusiast exploring differe
 
 ## 📘 My Academic Journey:
 - 🎓 **M.Tech** in Mathematics & Computing – *Indian Institute of Technology (IIT) Patna*
-- 🎓 **B.Tech** in Information Technology – *Guru Ghasidas Vishwavidyalaya (Central University)*
+- 🎓 **B.Tech** in Information Technology – *Guru Ghasidas Vishwavidyalaya (Central University) Bilaspur*
 
 ---
 
