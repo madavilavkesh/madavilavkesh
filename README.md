@@ -1,20 +1,19 @@
 # 👋 Hey there, I'm Lavkesh
 
-I'm an M.Tech student and a passionate Data Science enthusiast exploring the different domains of AI/ML.
+I'm an M.Tech student and a passionate Data Science enthusiast exploring different domains of AI/ML.
+
+---
+
+## 📘 My Academic Journey:
+- 🎓 **M.Tech** in Mathematics & Computing – *Indian Institute of Technology (IIT) Patna*
+- 🎓 **B.Tech** in Information Technology – *Guru Ghasidas Vishwavidyalaya (Central University)*
 
 ---
 
 ## 🚀 What I’m working on:
-- 🧠 Neural Machine Translation (RNN, Attention, Transformer, T5)
-- 🎨 Text-to-Image generation using Stable Diffusion
-- 📊 ML-driven analytics & insights for real-world applications
-
----
-
-## 💡 I’m curious about:
-- Generative AI
-- LLM Agents and prompt engineering
-- Real-time AI deployments (Gradio, HuggingFace Spaces)
+- 🧠 **Large Language Models (LLMs)** and their applications
+- 🤖 **AI Agents** that think, plan, and act autonomously
+- 🚀 **AI Deployments** using tools like Hugging Face Spaces, Gradio, and Streamlit
 
 ---
 
