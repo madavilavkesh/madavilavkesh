@@ -11,7 +11,7 @@ I'm an M.Tech student and a passionate Data Science enthusiast exploring differe
 ---
 
 ## 🚀 What I’m working on:
-- 🧠 **Large Language Models (LLMs)** and their applications
+- 🧠 **Generative AI** and their applications
 - 🤖 **AI Agents** that think, plan, and act autonomously
 - 🚀 **AI Deployments** using tools like Hugging Face Spaces, Gradio, and Streamlit
 
