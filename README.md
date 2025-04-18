@@ -10,13 +10,6 @@ I'm an M.Tech student and a passionate Data Science enthusiast exploring differe
 
 ---
 
-## 🚀 What I’m working on:
-- 🧠 **Generative AI** and their applications
-- 🤖 **AI Agents** that think, plan, and act autonomously
-- 🚀 **AI Deployments** using tools like Hugging Face Spaces, Gradio, and Streamlit
-
----
-
 ## 🛠️ Tech Stack:
 `Python` &nbsp;|&nbsp; `TensorFlow/Keras` &nbsp;|&nbsp; `PyTorch` &nbsp;|&nbsp; `HuggingFace` &nbsp;|&nbsp; `Gradio` &nbsp;|&nbsp; `Colab` &nbsp;|&nbsp; `Scikit-learn`
 
