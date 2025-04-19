@@ -5,13 +5,13 @@ I'm an M.Tech student and a passionate Data Science enthusiast exploring differe
 ---
 
 ## 🛠️ Tech Stack:
-`Python` &nbsp;||&nbsp; `Scikit-learn` &nbsp;|&nbsp; `TensorFlow/Keras` &nbsp;|&nbsp; `PyTorch` &nbsp;|&nbsp; `HuggingFace` &nbsp;|&nbsp;
+`Python` &nbsp;|&nbsp; `Scikit-learn` &nbsp;|&nbsp; `TensorFlow/Keras` &nbsp;|&nbsp; `PyTorch` &nbsp;|&nbsp; `HuggingFace` 
 
 ---
 
 ## 🧩 **Hobbies**
-- ✈️ **Travelling** – Love exploring new cultures, places, and experiences. Always up for the next adventure!
-- 🎥 **Watching Anime** – Big fan of anime storytelling, art styles, and character depth. Favorites include [insert yours here if you want!].
+- ✈️ **Travelling** – Love exploring new places and experiences. Always up for the next adventure!
+- 🎥 **Watching Anime** – Big fan of anime storytelling, art styles, and character depth.
 
 ---
 
