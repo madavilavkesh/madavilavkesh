@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Lavkesh
 
-I'm an M.Tech student and a passionate Data Science enthusiast exploring different domains of AI/ML.
+"I'm an M.Tech student and a passionate Data Science enthusiast exploring different domains of AI/ML. Currently, I'm expanding my skills in Machine Learning, Deep learning and Generative AI by working on real-world projects to strengthen my practical understanding."
 
 ---
 
